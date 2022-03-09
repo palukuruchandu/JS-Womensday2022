@@ -4,3 +4,4 @@ function add(){
     console.log("A=B");
 }
 console.log(add());
+document.write()
